@@ -1,7 +1,7 @@
 # Marketing Mix Modeling (MMM) with LightweightMMM
 
 ## Overview
-This repository contains a Jupyter Notebook that demonstrates how to apply the LightweightMMM package for Marketing Mix Modeling (MMM). It's designed as a comprehensive guide for marketers, data scientists, and anyone interested in understanding and implementing MMM in their data analysis.
+This repository contains a Jupyter Notebook that demonstrates how to apply the LightweightMMM package for Marketing Mix Modeling (MMM). It's designed as a starting guide for marketers, and anyone interested in understanding and implementing MMM in their marketing analysis.
 
 ## Features
 - **Model Selection and Pretesting**: Compare various MMM models to find the best fit for your data.
