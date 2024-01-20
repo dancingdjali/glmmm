@@ -22,14 +22,10 @@ Replace the placeholder data in the notebook with your dataset. Ensure your data
 Refer to the official LightweightMMM repository for data generation guidelines.
 
 ## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link to your issues page) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page]([link to your issues page](https://github.com/dancingdjali/glmmm/issues)) if you want to contribute.
 
 ## Contact
 For questions or to request the sample data used in this notebook, please open an issue on this repository.
 
 ## Acknowledgments
-- [LightweightMMM Official Repository](link to the LightweightMMM GitHub)
-- [Other references or acknowledgments]
-
-## License
-This project is [MIT licensed](link to your license file).
+- [LightweightMMM Official Repository]([link to the LightweightMMM GitHub](https://github.com/google/lightweight_mmm/blob/main/LICENSE))
